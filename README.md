@@ -2,4 +2,7 @@
 Türkçe Eş Anlamlı Kelimeler (JSON, SQL, PHP)
 
 Bulunan Kelime Sayısı: 14,136
+
 Son Güncelleme: 12 Ocak 2020
+
+[![image](https://i.hizliresim.com/anOr5Q.png)](https://hizliresim.com/anOr5Q)
