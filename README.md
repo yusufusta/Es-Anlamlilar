@@ -1,6 +1,8 @@
 # Es-Anlamlilar
 Türkçe Eş Anlamlı Kelimeler (JSON, SQL, PHP)
 
+Alabileceğiniz Formatlar: [JSON](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.json) [XML](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.xml) [PHP ARRAY](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.php) [Excel CSV](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.csv)
+
 Bulunan Kelime Sayısı: 14,136
 
 Son Güncelleme: 12 Ocak 2020
