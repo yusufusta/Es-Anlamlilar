@@ -1,4 +1,4 @@
-# Es-Anlamlilar
+# Eş Anlamlı Kelimeler
 Türkçe Eş Anlamlı Kelimeler (JSON, SQL, PHP)
 
 Alabileceğiniz Formatlar: [JSON](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.json) [XML](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.xml) [PHP ARRAY](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.php) [Excel CSV](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.csv) [SQL](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.sql)
