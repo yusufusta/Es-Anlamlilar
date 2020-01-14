@@ -2,7 +2,7 @@
 -- version 4.7.9
 -- https://www.phpmyadmin.net/
 --
--- Host: mysql-quie.alwaysdata.net
+-- Host: google.net
 -- Generation Time: Jan 12, 2020 at 01:06 PM
 -- Server version: 10.3.17-MariaDB
 -- PHP Version: 7.2.9
